@@ -6,3 +6,5 @@ Git is free software.
 Git has a mutable index called stage.
 
 444444444444444444444444444
+
+Git is free software.
